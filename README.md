@@ -12,7 +12,7 @@
 <br>
 
 ## Sobre
-Programa básico de simulador de compras em Java para execução em terminal.
+Programa de simulador de compras em Java para execução em terminal.
 <br>
 <br>
 <br>
